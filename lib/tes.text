@@ -1,0 +1,73 @@
+
+    ExecutiveOfficer(
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg/220px-Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg', 
+    name: 'Prabowo Subianto Djojohadikusumo', 
+    placeDOB: 'Jakarta,17 Oktober 1951',
+    position: 'Presiden RI', 
+    almamater: 'AKABRI, American School in London', 
+    profile: 'Prabowo Subianto adalah seorang perwira militer dan politikus Indonesia, yang saat ini menjabat sebagai Presiden Indonesia pada tahun 2024. Lahir pada tanggal 17 Oktober 1951, di Jakarta, ia memulai kariernya di Angkatan Bersenjata Nasional Indonesia (TNI), dengan pangkat Letnan Jenderal. Prabowo juga merupakan tokoh terkemuka dalam politik Indonesia, sebelumnya memimpin Partai Gerakan Indonesia Raya (Gerindra) dan mencalonkan diri sebagai calon presiden dalam beberapa pemilihan umum. Dikenal karena sikap nasionalisnya yang kuat, ia memiliki pengaruh yang signifikan dalam bidang pertahanan dan politik Indonesia.'
+    ),
+    ExecutiveOfficer(
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg/220px-Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg', 
+    name: 'Gibran Rakabuming Raka', 
+    placeDOB: 'Surakarta,01 Oktober 1987',
+    position: 'Wakil Presiden RI', 
+    almamater: 'Universitas Bradford', 
+    profile: 'Gibran Rakabuming Raka adalah seorang politikus dan pengusaha Indonesia, yang saat ini menjabat sebagai Wakil Presiden Indonesia pada tahun 2024. Lahir pada tanggal 1 Oktober 1987 di Surakarta, ia adalah putra sulung dari Joko Widodo, mantan presiden Indonesia. Gibran memulai kariernya di bidang bisnis, mendirikan beberapa usaha kuliner sebelum terjun ke dunia politik. Ia terpilih sebagai Wali Kota Surakarta pada tahun 2020, menunjukkan komitmen pelayanan publik yang kuat dan memperluas pengaruhnya dalam politik Indonesia. Dikenal karena gaya kepemimpinannya yang modern, ia membawa perspektif baru ke lanskap politik negara ini.'
+    ),
+     ExecutiveOfficer(
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg/220px-Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg', 
+    name: 'Budi Gunawan', 
+    placeDOB: 'Surakarta,11 Desember 1959',
+    position: 'Menko. Bidang Politik dan Keamanan', 
+    almamater: 'Akademi Kepolisian (1983), Universitas Trisakti', 
+    profile: 'Budi Gunawan adalah seorang perwira polisi dan pernah menjabat sebagai Kepala Badan Intelijen Negara (BIN), jabatan yang diembannya sejak 2016. Lahir pada 11 Desember 1959 di Surakarta, ia memulai kariernya di Kepolisian Negara Republik Indonesia, di mana ia naik pangkat dan menduduki beberapa jabatan penting, termasuk Wakil Kepala Kepolisian. Dikenal karena hubungan dekatnya dengan dunia politik Indonesia, Budi Gunawan memegang peran penting dalam urusan intelijen dan keamanan nasional.'
+    ),
+    ExecutiveOfficer(
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg/220px-Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg', 
+    name: 'Yusril Ihza Mahendra', 
+    placeDOB: 'Manggar, 05 Februari 1956',
+    position: 'Menko Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan', 
+    almamater: 'Universitas Indonesia, Universitas Punjab (Pakistan), Universitas Sains Malaysia', 
+    profile: 'Yusril Ihza Mahendra adalah seorang politikus, sarjana hukum, dan pengacara Indonesia yang dikenal karena keahliannya dalam hukum tata negara. Lahir pada tanggal 5 Februari 1956 di Belitung, ia pernah menjabat sebagai menteri dalam berbagai jabatan, termasuk Menteri Hukum dan Hak Asasi Manusia. Ia adalah pendiri Partai Bulan Bintang (PBB) dan telah aktif dalam politik Indonesia selama beberapa dekade, berkontribusi pada hukum dan pemerintahan. Yusril dihormati karena pemahamannya yang mendalam tentang masalah ketatanegaraan dan perannya yang berpengaruh dalam membentuk lanskap hukum dan politik Indonesia.'
+    ),
+    ExecutiveOfficer(
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg/220px-Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg', 
+    name: 'Airlangga Hartarto', 
+    placeDOB: 'Surabaya, 01 Oktober 1962',
+    position: 'Menko Bidang Perekonomian', 
+    almamater: 'Universitas Gadjah Mada, Universitas Pennsylvania, Monash University, University of Melbourne', 
+    profile: 'Airlangga Hartarto adalah seorang politikus dan pengusaha Indonesia, yang saat ini menjabat sebagai Menteri Koordinator Bidang Perekonomian. Lahir pada tanggal 1 Oktober 1962, di Surabaya, ia telah menjadi tokoh terkemuka dalam politik Indonesia dan merupakan ketua Partai Golkar. Airlangga sebelumnya menjabat sebagai Menteri Perindustrian dan telah memainkan peran penting dalam membentuk kebijakan ekonomi, dengan fokus pada pertumbuhan industri dan pemulihan ekonomi. Kepemimpinannya dikenal karena memprioritaskan ketahanan ekonomi dan pembangunan berkelanjutan di Indonesia.'
+    ),
+    ExecutiveOfficer(
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg/220px-Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg', 
+    name: 'Pratikno', 
+    placeDOB: 'Bojonegoro, 13 Februari 1962',
+    position: 'Menko Bidang Pembangunan Manusia dan Kebudayaan', 
+    almamater: 'Universitas Gadjah Mada, Birmingham University, Flinders University',
+    profile: 'Pratikno adalah seorang akademisi dan politikus Indonesia yang telah menjabat sebagai Menteri Sekretariat Negara sejak 2014. Lahir pada 13 Februari 1962 di Bojonegoro, ia memiliki latar belakang ilmu politik dan sebelumnya adalah seorang profesor dan rektor di Universitas Gadjah Mada. Dikenal karena keahlian administratifnya, Pratikno memainkan peran penting dalam mengelola urusan administratif kantor kepresidenan, mendukung kegiatan kepresidenan, dan menjaga koordinasi di berbagai kementerian. Pengalaman akademis dan pemerintahannya telah menjadikannya tokoh penting dalam politik dan administrasi publik Indonesia.'
+    ),
+    ExecutiveOfficer(
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg/220px-Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg', 
+    name: 'Agus Harimurti Yudhoyono', 
+    placeDOB: 'Bandung, 10 Agustus 1978',
+    position: 'Menko Bidang Infrastruktur dan Pembangunan Kewilayahan', 
+    almamater: 'SMA Taruna Nusantara, Akademi Militer, Universitas Teknologi Nanyan (MSc), Universitas Harvard (MPA), Webster University (MA), Universitas Airlangga (Dr)',
+    profile: 'Agus Harimurti Yudhoyono, yang biasa disapa AHY, adalah seorang politikus dan mantan perwira militer Indonesia. Lahir pada 10 Agustus 1978 di Bandung, ia adalah putra mantan Presiden Indonesia Susilo Bambang Yudhoyono. Agus lulus dari Akademi Militer Indonesia dan bertugas di Angkatan Darat, dengan pangkat Mayor. Pada tahun 2016, ia beralih ke dunia politik dan kini memimpin Partai Demokrat. Dikenal karena kepemimpinan dan kemampuan berbicara di depan publiknya, AHY berfokus pada pelibatan pemuda dan modernisasi dalam politik Indonesia.'
+    ),
+    ExecutiveOfficer(
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg/220px-Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg', 
+    name: 'Abdul Muhaimin Iskandar', 
+    placeDOB: 'Jombang, 24 September 1966',
+    position: 'Menko Pemberdayaan Masyarakat', 
+    almamater: 'Universitas Gadjah Mada (Drs), Universitas Indonesia (M.Si)',
+    profile: 'Muhaimin Iskandar, yang lebih dikenal dengan nama Cak Imin, adalah seorang politikus Indonesia dan pemimpin Partai Kebangkitan Bangsa (PKB). Lahir pada tanggal 24 September 1966, ia telah menjabat di berbagai posisi penting, termasuk sebagai Wakil Ketua Dewan Perwakilan Rakyat (DPR) dan Menteri Tenaga Kerja dan Transmigrasi. Dikenal karena pembelaannya terhadap kaum miskin dan kepemimpinannya dalam kelompok politik Islam, Cak Imin memainkan peran penting dalam lanskap politik Indonesia.'
+    ),
+    ExecutiveOfficer(
+    photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg/220px-Zulkifli_Hasan%2C_Menteri_Perdagangan.jpg', 
+    name: 'Zulkifli Hasan', 
+    placeDOB: 'Penengahan, 31 Agustus 1962',
+    position: 'Menko Bidang Pangan', 
+    almamater: 'Universitas Krisnadwipayana, Sekolah Tinggi Manajemen PPM',
+    profile: 'Zulkifli Hasan adalah seorang politikus Indonesia dan Menteri Koordinator Bidang Pangan saat ini, yang diangkat pada tahun 2024. Ia adalah ketua Partai Amanat Nasional (PAN) dan telah memegang berbagai jabatan di pemerintahan, termasuk Menteri Perdagangan. Dikenal karena keahliannya dalam urusan politik dan ekonomi, Zulkifli memainkan peran kunci dalam membentuk kebijakan terkait ketahanan pangan dan pembangunan pertanian di Indonesia.'
+    ),

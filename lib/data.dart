@@ -1,0 +1,166 @@
+class Subdistrict{
+  String no;
+  String nama;
+  String imageAsset;
+  String luasWilayah;
+  String jumlahPenduduk;
+  String jumlahDesa;
+  String batasWilayah;
+  String detailGeografi;
+
+ Subdistrict({
+  required this.no,
+  required this.nama,
+  required this.imageAsset,
+  required this.luasWilayah,
+  required this.jumlahPenduduk,
+  required this.jumlahDesa,
+  required this.batasWilayah,
+  required this.detailGeografi,
+ });
+}
+
+List<Subdistrict> subdistrictList = [
+  Subdistrict(
+    no: '1',
+    nama: 'Pemalang',
+    imageAsset: 'images/pemalang.jpg',
+    luasWilayah: '35,21 km²',
+    jumlahPenduduk: '128.678 jiwa',
+    jumlahDesa: '20 desa/kelurahan',
+    batasWilayah: 'Sebelah utara Laut Jawa, sebelah selatan Kecamatan Taman, sebelah barat Kecamatan Petarukan, sebelah timur Kecamatan Comal',
+    detailGeografi: 'Wilayah ini merupakan dataran rendah dengan sebagian wilayah perkotaan.',
+  ),
+  Subdistrict(
+    no: '2',
+    nama: 'Taman',
+    imageAsset: 'images/taman.jpg',
+    luasWilayah: '58,17 km²',
+    jumlahPenduduk: '93.512 jiwa',
+    jumlahDesa: '15 desa',
+    batasWilayah: 'Sebelah utara Kecamatan Pemalang, sebelah selatan Kecamatan Randudongkal, sebelah barat Kecamatan Petarukan, sebelah timur Kecamatan Bantarbolang',
+    detailGeografi: 'Wilayahnya meliputi dataran rendah hingga perbukitan di bagian selatan.',
+  ),
+  Subdistrict(
+    no: '3',
+    nama: 'Petarukan',
+    imageAsset: 'images/petarukan.jpg',
+    luasWilayah: '47,83 km²',
+    jumlahPenduduk: '105.246 jiwa',
+    jumlahDesa: '19 desa',
+    batasWilayah: 'Sebelah utara Laut Jawa, sebelah selatan Kecamatan Pemalang, sebelah barat Kecamatan Ampelgading, sebelah timur Kecamatan Comal',
+    detailGeografi: 'Wilayah pesisir dengan aktivitas utama perikanan dan pertanian.',
+  ),
+  Subdistrict(
+    no: '4',
+    nama: 'Comal',
+    imageAsset: 'images/comal.jpg',
+    luasWilayah: '37,45 km²',
+    jumlahPenduduk: '96.123 jiwa',
+    jumlahDesa: '12 desa',
+    batasWilayah: 'Sebelah utara Laut Jawa, sebelah selatan Kecamatan Ulujami, sebelah barat Kecamatan Petarukan, sebelah timur Kecamatan Bodeh',
+    detailGeografi: 'Daerah dengan banyak lahan pertanian dan pesisir.',
+  ),
+  Subdistrict(
+    no: '5',
+    nama: 'Bantarbolang',
+    imageAsset: 'images/bantarbolang.jpg',
+    luasWilayah: '86,53 km²',
+    jumlahPenduduk: '67.345 jiwa',
+    jumlahDesa: '16 desa',
+    batasWilayah: 'Sebelah utara Kecamatan Taman, sebelah selatan Kecamatan Randudongkal, sebelah barat Kecamatan Pemalang, sebelah timur Kecamatan Warungpring',
+    detailGeografi: 'Wilayah berbukit dengan sebagian besar lahan untuk pertanian.',
+  ),
+  Subdistrict(
+    no: '6',
+    nama: 'Randudongkal',
+    imageAsset: 'images/randudongkal.jpg',
+    luasWilayah: '120,42 km²',
+    jumlahPenduduk: '79.654 jiwa',
+    jumlahDesa: '21 desa',
+    batasWilayah: 'Sebelah utara Kecamatan Bantarbolang, sebelah selatan Kecamatan Moga, sebelah barat Kecamatan Belik, sebelah timur Kecamatan Warungpring',
+    detailGeografi: 'Wilayah perbukitan dengan banyak perkebunan dan sawah.',
+  ),
+  Subdistrict(
+    no: '7',
+    nama: 'Moga',
+    imageAsset: 'images/moga.jpg',
+    luasWilayah: '95,13 km²',
+    jumlahPenduduk: '65.342 jiwa',
+    jumlahDesa: '14 desa',
+    batasWilayah: 'Sebelah utara Kecamatan Randudongkal, sebelah selatan Kecamatan Pulosari, sebelah barat Kecamatan Belik, sebelah timur Kecamatan Warungpring',
+    detailGeografi: 'Wilayah pegunungan dengan udara sejuk dan potensi wisata alam.',
+  ),
+  Subdistrict(
+    no: '8',
+    nama: 'Pulosari',
+    imageAsset: 'images/pulosari.jpg',
+    luasWilayah: '77,56 km²',
+    jumlahPenduduk: '48.123 jiwa',
+    jumlahDesa: '12 desa',
+    batasWilayah: 'Sebelah utara Kecamatan Moga, sebelah selatan Kabupaten Tegal, sebelah barat Kecamatan Belik, sebelah timur Kecamatan Watukumpul',
+    detailGeografi: 'Wilayah pegunungan dengan banyak sumber mata air dan perkebunan.',
+  ),
+  Subdistrict(
+    no: '9',
+    nama: 'Belik',
+    imageAsset: 'images/belik.jpg',
+    luasWilayah: '112,34 km²',
+    jumlahPenduduk: '56.412 jiwa',
+    jumlahDesa: '13 desa',
+    batasWilayah: 'Sebelah utara Kecamatan Randudongkal, sebelah selatan Kecamatan Pulosari, sebelah barat Kecamatan Ampelgading, sebelah timur Kecamatan Moga',
+    detailGeografi: 'Daerah perbukitan dengan dominasi kegiatan agraris.',
+  ),
+  Subdistrict(
+    no: '10',
+    nama: 'Watukumpul',
+    imageAsset: 'images/watukumpul.jpg',
+    luasWilayah: '92,21 km²',
+    jumlahPenduduk: '45.234 jiwa',
+    jumlahDesa: '11 desa',
+    batasWilayah: 'Sebelah utara Kecamatan Pulosari, sebelah selatan Kabupaten Pekalongan, sebelah barat Kecamatan Belik, sebelah timur Kecamatan Ampelgading',
+    detailGeografi: 'Wilayah perbukitan yang sebagian besar penduduknya bertani.',
+  ),
+  Subdistrict(
+    no: '11',
+    nama: 'Ampelgading',
+    imageAsset: 'images/ampelgading.jpg',
+    luasWilayah: '80,12 km²',
+    jumlahPenduduk: '78.532 jiwa',
+    jumlahDesa: '20 desa',
+    batasWilayah: 'Sebelah utara Kecamatan Petarukan, sebelah selatan Kecamatan Watukumpul, sebelah barat Kecamatan Comal, sebelah timur Kabupaten Pekalongan',
+    detailGeografi: 'Daerah yang mencakup dataran rendah hingga perbukitan.',
+  ),
+  Subdistrict(
+    no: '12',
+    nama: 'Ulujami',
+    imageAsset: 'images/ulujami.jpg',
+    luasWilayah: '68,42 km²',
+    jumlahPenduduk: '84.123 jiwa',
+    jumlahDesa: '19 desa',
+    batasWilayah: 'Sebelah utara Laut Jawa, sebelah selatan Kecamatan Comal, sebelah barat Kecamatan Ampelgading, sebelah timur Kabupaten Pekalongan',
+    detailGeografi: 'Wilayah pesisir dengan aktivitas pertanian dan perdagangan.',
+  ),
+  Subdistrict(
+    no: '13',
+    nama: 'Warungpring',
+    imageAsset: 'images/warungpring.jpg',
+    luasWilayah: '73,45 km²',
+    jumlahPenduduk: '49.231 jiwa',
+    jumlahDesa: '13 desa',
+    batasWilayah: 'Sebelah utara Kecamatan Bantarbolang, sebelah selatan Kecamatan Moga, sebelah barat Kecamatan Randudongkal, sebelah timur Kecamatan Pulosari',
+    detailGeografi: 'Wilayah berbukit dengan potensi wisata alam.',
+  ),
+  Subdistrict(
+    no: '14',
+    nama: 'Bodeh',
+    imageAsset: 'images/bodeh.jpg',
+    luasWilayah: '75,34 km²',
+    jumlahPenduduk: '58.324 jiwa',
+    jumlahDesa: '12 desa',
+    batasWilayah: 'Sebelah utara Kecamatan Comal, sebelah selatan Kecamatan Watukumpul, sebelah barat Kecamatan Ampelgading, sebelah timur Kabupaten Pekalongan',
+    detailGeografi: 'Wilayah yang meliputi lahan pertanian dan perbukitan.',
+  ),
+];
+
+  
