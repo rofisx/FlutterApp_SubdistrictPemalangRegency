@@ -26,5 +26,5 @@ It is an application using Flutter, displaying 14 sub-districts in Pemalang Rege
 
 
 ---
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syukron-isrofi/){:target="_blank" rel="noopener"}
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syukron-isrofi/)
 
